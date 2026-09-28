@@ -72,7 +72,7 @@ Playwright が既に利用可能な環境では、local Worker 起動後に `E2E
 
 通常 ChatGPT では保存したい会話をコピーし、PWA の「会話を取り込む」へ貼り付けて「AI整理して保存」を押します。原文が先に保存されます。AI 失敗時は一覧に失敗理由・原文・再処理ボタンが表示されます。
 
-Custom GPT は [setup](docs/CUSTOM_GPT_SETUP.md)、[instructions](docs/CUSTOM_GPT_INSTRUCTIONS.md)、[OpenAPI](docs/gpt-action-openapi.yaml) を使用します。構造化済み payload は再度 AI に送られません。
+Custom GPT は setup、instructions、OpenAPI を使用します。構造化済み payload は再度 AI に送られません。
 
 ## Troubleshooting
 
